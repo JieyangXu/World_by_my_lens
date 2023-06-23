@@ -1,6 +1,12 @@
 ## [🌊 Liverpool](./Liverpool)
 
+[📍 利物浦博物馆](./Liverpool/利物浦博物馆.md)
+
 [📍 利物浦大教堂](./Liverpool/利物浦大教堂.md)
+
+[📍 披头士雕像](./Liverpool/披头士雕像.md)
+
+[📍 维多利亚画廊](./Liverpool/维多利亚画廊.md)
 
 [📍 Albert 码头](./Liverpool/Albert码头.md)
 
@@ -16,9 +22,9 @@
 
 [🥘 仁爱路美食街](./Liverpool/仁爱路美食街.md)
 
-[🥘 大乔治街](./Liverpool/大乔治街.md)
-
 [🥘 Cowshed](./Liverpool/Cowshed.md)
+
+[🥘 Elif](./Liverpool/Elif.md)
 
 ## [🌊 Scarbought](./Scarbought.md)
 
