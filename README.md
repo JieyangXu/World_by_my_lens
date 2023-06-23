@@ -1,1 +1,3 @@
-# World_by_my_lens
+# Hi
+
+This repo is created as a collection of travelling ideas / guides
