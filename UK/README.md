@@ -26,8 +26,32 @@
 
 [🥘 Elif](./Liverpool/Elif.md)
 
-## [🌊 Scarbought](./Scarbought.md)
+## [🌊 Whitby](./Whitby)
 
-## [🌊 Whitby](./Whitby.md)
+[📍 199 Steps](./Whitby/199_Steps.md)
 
-## [🌊 York](./York.md)
+[📍 惠比特修道院](./Whitby/惠比特修道院.md)
+
+[📍 圣玛丽教堂和墓园](./Whitby/圣玛丽教堂和墓园.md)
+
+[📍 惠特比灯塔 ](./Whitby/惠特比灯塔.md)
+
+[📍 惠特比海港](./Whitby/惠特比海港.md)
+
+[📍 惠特比海滩 & 彩色小房子](./Whitby/惠特比海滩&彩色小房子.md)
+
+[📍 鲸鱼拱门](./Whitby/鲸鱼拱门.md)
+
+[📍 库克船长纪念馆 ](./Whitby/库克船长纪念馆.md)
+
+[🥘 Magpie Cafe](./Whitby/Magpie_Cafe.md)
+
+[🥘 The Marine](./Whitby/The_Marine.md)
+
+[🥘 Brunch & co](./Whitby/Brunch&co.md)
+
+## [🌊 Scarbought](./Scarbought)
+
+## [🌊 York](./York)
+
+## [🌊 The Lake Distinct](./The_Lake_Distinct)
