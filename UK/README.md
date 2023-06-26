@@ -1,4 +1,4 @@
-## [🌊 Liverpool](./Liverpool)
+## [🌊 Liverpool](./Liverpool/Liverpool.md)
 
 [📍 利物浦博物馆](./Liverpool/利物浦博物馆.md)
 
@@ -26,7 +26,7 @@
 
 [🥘 Elif](./Liverpool/Elif.md)
 
-## [🌊 Whitby](./Whitby)
+## [🌊 Whitby](./Whitby/Whitby.md)
 
 [📍 199 Steps](./Whitby/199_Steps.md)
 
@@ -50,8 +50,26 @@
 
 [🥘 Brunch & co](./Whitby/Brunch&co.md)
 
-## [🌊 Scarbought](./Scarbought)
+## [🌊 Scarborough](./scarborough/scarborough.md)
 
-## [🌊 York](./York)
+[📍 斯卡伯勒海滩(北湾/南湾)](./scarborough/斯卡伯勒海滩.md)
 
-## [🌊 The Lake Distinct](./The_Lake_Distinct)
+[📍 斯卡伯勒城堡](./scarborough/斯卡伯勒城堡.md)
+
+[📍 斯卡伯勒集市](./scarborough/斯卡伯勒集市.md)
+
+[📍 壁画墙](./scarborough/壁画墙.md)
+
+[📍 猫咖Steampuss Cat Lounge](./scarborough/猫咖Steampuss.md)
+
+## [🛶 The Lake Distinct](./The_Lake_Distinct/The_Lake_Distinct.md)
+
+温德米尔小镇 
+
+格拉斯米尔小镇 
+
+温德米尔湖游船 
+
+碧翠丝·波特与彼得兔的童话世界 
+
+## [⛪ York](./York)
