@@ -64,12 +64,12 @@
 
 ## [🛶 The Lake Distinct](./The_Lake_Distinct/The_Lake_Distinct.md)
 
-温德米尔小镇 
+[📍 温德米尔小镇](./The_Lake_Distinct/温德米尔小镇.md) 
 
-格拉斯米尔小镇 
+格拉斯米尔小镇
 
-温德米尔湖游船 
+温德米尔湖游船
 
-碧翠丝·波特与彼得兔的童话世界 
+碧翠丝·波特与彼得兔的童话世界
 
 ## [⛪ York](./York)
